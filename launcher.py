@@ -15,7 +15,6 @@ from PIL import Image
 L_VERSION = "1.0.0"
 # Te linki muszą być poprawne!
 UPDATE_URL = "https://raw.githubusercontent.com/justcraftonline/launcher3443/refs/heads/main/version.txt"
-DOWNLOAD_URL = "https://raw.githubusercontent.com/justcraftonline/launcher3443/refs/heads/main/launcher.py"
 
 # --- ŚCIEŻKI ---
 ctk.set_appearance_mode("dark")
